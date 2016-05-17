@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Some code to solve a problem posed by the good people at Reaktor",
   "main": "dist/index.js",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
